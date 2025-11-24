@@ -7,9 +7,10 @@
 
 **Working On:**  
   - AimeetingMonitor (Real-time AI meeting analytics)  
-  - Human Brain 3D Interactive Website  
+  - Human Brain 3D Interactive Website
+  - 
 **Tech Stack:** Python · JavaScript · React · Node.js · Flask · MySQL · MongoDB · TensorFlow · Git · Docker  
-**GitHub Stats:** Stats • Top Languages • Streaks  
+ 
 
 
 ## 🌐 Socials:
