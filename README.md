@@ -3,7 +3,8 @@
 ## 🌿 About Me
 **Name:** Chinmayi  
 **Learning:** Python • ML • Web Development  
-**Passionate About:** Advanced AI & Game development 
+**Passionate About:** Advanced AI & Game development
+
 **Working On:**  
   - AimeetingMonitor (Real-time AI meeting analytics)  
   - Human Brain 3D Interactive Website  
