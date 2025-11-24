@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-# 💫 About Me:
-i'm chinmayi<br>Currently learning Python, Machine Learning, Web Development.Passionate about advanced, unique, GenAI projects<br>**Current Projects**<br>   - AimeetingMonitor real-time meeting analytics platform<br>   - Human Brain 3D interactive website<br>*Tech Stack Badges**<br>   - Python, JavaScript, React, Node.js, Flask, FastAPI (optional), MySQL, MongoDB, TensorFlow, Git, Docker<br> **GitHub Stats Section**<br>   - Github stats card<br>   - Top languages card<br>   - Streak stats card <br>Requirements:<br>- Clean, modern layout<br>- Balanced use of emojis<br>- Consistent spacing<br>- Aesthetic headers<br>- No clutter
+## 🌿 About Me
+**Name:** Chinmayi  
+**Learning:** Python • ML • Web Development  
+**Passionate About:** Advanced AI & Game development 
+**Working On:**  
+  - AimeetingMonitor (Real-time AI meeting analytics)  
+  - Human Brain 3D Interactive Website  
+**Tech Stack:** Python · JavaScript · React · Node.js · Flask · MySQL · MongoDB · TensorFlow · Git · Docker  
+**GitHub Stats:** Stats • Top Languages • Streaks  
 
 
 ## 🌐 Socials:
